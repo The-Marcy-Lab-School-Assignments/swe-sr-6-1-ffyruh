@@ -10,12 +10,11 @@ In your response, make sure to compare the time complexities for insertion, remo
 
 ### Response 1
 
-
 ## Prompt 2
 
-Imagine you are developing a web browser's "back" button functionality. When a user clicks "back," the browser should navigate to the previously visited webpage. 
+Imagine you are developing a web browser's "back" button functionality. When a user clicks "back," the browser should navigate to the previously visited webpage.
 
-Would you use a stack or a queue to implement this functionality? 
+Would you use a stack or a queue to implement this functionality?
 
 In your response, explain what a Stack/Queue is and why it would be best for this use case. Make sure that your response includes the terms LIFO or FIFO.
 
@@ -27,11 +26,10 @@ What is an Abstract Data Type and why are they worth learning about?
 
 ### Response 3
 
+An abstract data type is just a way we can describe behaviors we want without setting into concrete how we want it to be implemented or how we want the data to be organized. Abstract data structures are ways we can hide information from users that they do not need, also hides the backend of how these operations are ran to make a better user experience, can catch errors easier, and can be made into more flexible programming.
+
 ## Prompt 4
 
-A few classic problems involving a stack are the `isBalanced` and `isPalindrome` functions. Choose one of these functions and provide a solution to it along with a brief lesson explaining how it works. 
+A few classic problems involving a stack are the `isBalanced` and `isPalindrome` functions. Choose one of these functions and provide a solution to it along with a brief lesson explaining how it works.
 
 ### Response 4
-
-
-
